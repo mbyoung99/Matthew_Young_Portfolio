@@ -1,7 +1,7 @@
 # Matthew_Young_Portfolio
 My data science and machine learning projects
 
-## Project One
+## [Project One](https://github.com/mbyoung99/Linear_Regressions)
 * Modeling first project.
 
 ## Project Two
