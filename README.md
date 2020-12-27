@@ -5,6 +5,7 @@ My data science and machine learning projects
 * Modeling first project.
 * Modeling first project.
 * Modeling first project.
+![](https://github.com/mbyoung99/Linear_Regressions/blob/main/LinearModelPlot.png)
 
 ## Project Two
 * Modeling second project.
