@@ -6,8 +6,8 @@ My data science and machine learning projects
 * Modeling first project.
 * Modeling first project.
 
-![](/Images/LinearModelPlot.png)
-![](/Images/MultiVariableLinearRegressionProject.png)
+![](/Images/LinearModelPlotSingleVar.png)
+![](/Images/LinearModelPlotSingleVar.png)
 
 
 ## Project Two
