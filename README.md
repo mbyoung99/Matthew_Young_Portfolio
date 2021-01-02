@@ -7,7 +7,7 @@ My data science and machine learning projects
 * Modeling first project.
 
 ![](/Images/LinearModelPlotSingleVar.png)
-![](/Images/LinearModelPlotSingleVar.png)
+![](/Images/PolynomialModelPlotSingleVar.png)
 ![](/Images/LinearModelPlotMultiVar.png)
 
 
