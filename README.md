@@ -8,7 +8,7 @@ My data science and machine learning projects
 
 ![](/Images/LinearModelPlotSingleVar.png)
 ![](/Images/PolynomialModelPlotSingleVar.png)
-![](/Images/LinearModelPlotMultiVar.png)
+![](/Images/LinearModelPlotMultiVar_.png)
 
 
 ## Project Two
