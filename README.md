@@ -1,10 +1,10 @@
 # Matthew_Young_Portfolio
 My data science and machine learning projects
 
-## [Project One](https://github.com/mbyoung99/Linear_Regressions)
+## [Linear Regression Models](https://github.com/mbyoung99/Linear_Regressions)
 * My regression model projects for various sets of sample data and derivations of the different models
 * Includes single variable linear, single variable polynomial and multivarible linear regressions
-* Analyses are performed with Python libraries: Pandas, Numpy, Matplotlib, Seaborn and SciKit Learn
+* Analyses are performed with Python libraries: Pandas, Numpy, Matplotlib, Seaborn and SciKit-Learn
 
 ![](/Images/LinearModelPlotSingleVar.png)
 ![](/Images/PolynomialModelPlotSingleVar.png)
