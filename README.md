@@ -2,9 +2,9 @@
 My data science and machine learning projects
 
 ## [Project One](https://github.com/mbyoung99/Linear_Regressions)
-* Modeling first project.
-* Modeling first project.
-* Modeling first project.
+* My regression model projects for various sets of sample data and derivations of the different models
+* Includes single variable linear, single variable polynomial and multivarible linear regressions
+* Analyses are performed with Python libraries: Pandas, Numpy, Matplotlib, Seaborn and SciKit Learn
 
 ![](/Images/LinearModelPlotSingleVar.png)
 ![](/Images/PolynomialModelPlotSingleVar.png)
