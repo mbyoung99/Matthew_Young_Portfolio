@@ -1,5 +1,8 @@
 # Matthew_Young_Portfolio
-This is a portfolio to document my projects that I create while I learn data science and machine learning. This portfolio includes projects written in Python and with libraries: Numpy, Pandas, Seaborn, Scikit-Learn
+This is a portfolio to document my projects that I create while I learn data science and machine learning. 
+Programming Languages: Python
+Libraries: Numpy, Pandas, Seaborn, Matplotlib, Scikit-Learn, Cufflinks
+Software: Jupyter Notebook
 
 ## [Linear Regression Models](https://github.com/mbyoung99/Linear_Regressions)
 * My continuous regression projects for sets of sample data and derivations of the different models
