@@ -1,5 +1,5 @@
 # Matthew_Young_Portfolio
-My data science and machine learning projects
+This is a portfolio to document my projects that I create while I learn data science and machine learning.
 
 ## [Linear Regression Models](https://github.com/mbyoung99/Linear_Regressions)
 * My continuous regression projects for sets of sample data and derivations of the different models
