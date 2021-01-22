@@ -11,7 +11,11 @@ My data science and machine learning projects
 ![](/Images/LinearModelPlotMultiVar_.png)
 
 
-## Project Two
+## [Logistic Regression Models](https://github.com/mbyoung99/Logistic_Regressions)
 * Modeling second project.
 * Modeling second project.
 * Modeling second project.
+
+![](/Images/LogisticModelPlot_single_variable.png)
+![](/Images/LogisticModelPlot_kde.png)
+![](/Images/LogisticModelPlot_histogram.png)
