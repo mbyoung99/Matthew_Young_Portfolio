@@ -2,8 +2,8 @@
 My data science and machine learning projects
 
 ## [Linear Regression Models](https://github.com/mbyoung99/Linear_Regressions)
-* My regression model projects for sets of sample data and derivations of the different models
-* Includes single variable linear, single variable polynomial and multivarible linear regressions
+* My continuous regression projects for sets of sample data and derivations of the different models
+* Includes single variable linear, single variable polynomial and multivarible regression models
 * Analyses are performed with Python libraries: Pandas, Numpy, Matplotlib, Seaborn and SciKit
 
 ![](/Images/LinearModelPlotSingleVar.png)
@@ -12,9 +12,9 @@ My data science and machine learning projects
 
 
 ## [Logistic Regression Models](https://github.com/mbyoung99/Logistic_Regressions)
-* Modeling second project.
-* Modeling second project.
-* Modeling second project.
+* My continuous regression projects for sets of sample data and derivations of the different models
+* Includes single variable linear, single variable polynomial and multivarible regression models
+* Analyses are performed with Python libraries: Pandas, Numpy, Matplotlib, Seaborn and SciKit
 
 ![](/Images/LogisticModelPlot_single_variable.png)
 ![](/Images/LogisticModelPlot_kde.png)
