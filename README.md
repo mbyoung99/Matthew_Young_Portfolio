@@ -30,3 +30,10 @@ This is a portfolio to document my projects that I create while I learn data sci
 * Analyses are performed with Python libraries: Pandas, Numpy, Matplotlib, Seaborn and SciKit
 
 ![](/Images/KNN_k_deter.png)
+
+
+## [Decision Tree and Random Forest Models](https://github.com/mbyoung99/Decision_Trees_Random_Forests)
+* My Decision tree and Random Forest projects for sets of sample data using python libraries
+* Analyses are performed with Python libraries: Pandas, Numpy, Matplotlib, Seaborn and SciKit
+
+![](/Images/DecisionTreeRandomForest_lmplot.png)
