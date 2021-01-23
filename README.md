@@ -1,5 +1,6 @@
 # Matthew_Young_Portfolio
 This is a portfolio to document my projects that I create while I learn data science and machine learning. 
+* Machine Learning Algorithms: Linear Regressions, Logistic Regressions
 * Programming Languages: Python
 * Libraries: Numpy, Pandas, Seaborn, Matplotlib, Scikit-Learn, Cufflinks
 * Software: Jupyter Notebook
