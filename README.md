@@ -10,9 +10,10 @@ This is a portfolio to document my projects that I create while I learn data sci
 * Includes single variable linear, single variable polynomial and multivarible regression models
 * Analyses are performed with Python libraries: Pandas, Numpy, Matplotlib, Seaborn and SciKit-Learn
 
-![](/Images/LinearModelPlotSingleVar.png)
-![](/Images/PolynomialModelPlotSingleVar.png)
+<!--![](/Images/LinearModelPlotSingleVar.png)-->
 ![](/Images/LinearModelPlotMultiVar_.png)
+![](/Images/PolynomialModelPlotSingleVar.png)
+
 
 
 ## [Logistic Regression Models](https://github.com/mbyoung99/Logistic_Regressions)
@@ -22,7 +23,7 @@ This is a portfolio to document my projects that I create while I learn data sci
 
 ![](/Images/LogisticModelPlot_single_variable.png)
 ![](/Images/LogisticModelPlot_kde.png)
-![](/Images/LogisticModelPlot_histogram.png)
+<!--!![](/Images/LogisticModelPlot_histogram.png)-->
 
 
 ## [K Nearest Neightbors Models](https://github.com/mbyoung99/K_Nearest_Neighbors)
