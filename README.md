@@ -11,7 +11,8 @@ This is a portfolio to document my projects that I create while I learn data sci
 * Analyses are performed with Python libraries: Pandas, Numpy, Matplotlib, Seaborn and SciKit-Learn
 
 <!--![](/Images/LinearModelPlotSingleVar.png)-->
-![](/Images/LinearModelPlotMultiVar_.png) |![](/Images/PolynomialModelPlotSingleVar.png)
+![](/Images/LinearModelPlotMultiVar_.png)
+![](/Images/PolynomialModelPlotSingleVar.png)
 
 
 
@@ -20,7 +21,8 @@ This is a portfolio to document my projects that I create while I learn data sci
 * Includes single variable logistic regression models and multivarible logistic regression models
 * Analyses are performed with Python libraries: Pandas, Numpy, Matplotlib, Seaborn and SciKit
 
-![](/Images/LogisticModelPlot_single_variable.png) | ![](/Images/LogisticModelPlot_kde.png)
+![](/Images/LogisticModelPlot_single_variable.png) 
+![](/Images/LogisticModelPlot_kde.png)
 <!--!![](/Images/LogisticModelPlot_histogram.png)-->
 
 
