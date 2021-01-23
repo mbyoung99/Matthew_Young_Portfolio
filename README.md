@@ -12,7 +12,6 @@ This is a portfolio to document my projects that I create while I learn data sci
 
 <!--![](/Images/LinearModelPlotSingleVar.png)-->
 Solarized dark             |  Solarized Ocean
-:----------------------------------------:|:-------------------------------------------:
 ![](/Images/LinearModelPlotMultiVar_.png) |![](/Images/PolynomialModelPlotSingleVar.png)
 
 
