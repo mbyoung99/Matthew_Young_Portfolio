@@ -11,8 +11,7 @@ This is a portfolio to document my projects that I create while I learn data sci
 * Analyses are performed with Python libraries: Pandas, Numpy, Matplotlib, Seaborn and SciKit-Learn
 
 <!--![](/Images/LinearModelPlotSingleVar.png)-->
-![](/Images/LinearModelPlotMultiVar_.png)
-![](/Images/PolynomialModelPlotSingleVar.png)
+![](/Images/LinearModelPlotMultiVar_.png) | ![](/Images/PolynomialModelPlotSingleVar.png)
 
 
 
