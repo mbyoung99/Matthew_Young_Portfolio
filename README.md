@@ -29,4 +29,4 @@ This is a portfolio to document my projects that I create while I learn data sci
 * My K Nearest Neighbors projects for sets of sample data using python with multiple libraries
 * Analyses are performed with Python libraries: Pandas, Numpy, Matplotlib, Seaborn and SciKit
 
-![](/Images/KNN_k_deter.png.png)
+![](/Images/KNN_k_deter.png)
