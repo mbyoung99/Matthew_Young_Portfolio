@@ -1,4 +1,4 @@
-# Matthew_Young_Portfolio
+# Matthew Young Portfolio
 This is a portfolio to document my projects that I create while I learn data science and machine learning. 
 * Machine Learning Algorithms: Linear Regressions, Logistic Regressions
 * Programming Languages: Python
