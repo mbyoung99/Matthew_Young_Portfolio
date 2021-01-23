@@ -34,7 +34,14 @@ This is a portfolio to document my projects that I create while I learn data sci
 
 
 ## [Decision Tree and Random Forest Models](https://github.com/mbyoung99/Decision_Trees_Random_Forests)
-* My Decision tree and Random Forest projects for sets of sample data using python libraries
+* My Decision Tree and Random Forest projects for sets of sample data using python libraries
 * Analyses are performed with Python libraries: Pandas, Numpy, Matplotlib, Seaborn and SciKit
 
 ![](/Images/DecisionTreeRandomForest_lmplot.png)
+
+
+## [Support Vector Machine Models](https://github.com/mbyoung99/Support_Vector_Machines)
+* My Suport Vector Machine projects for sets of sample data using python with multiple libraries
+* Analyses are performed with Python libraries: Pandas, Numpy, Matplotlib, Seaborn and SciKit
+
+![](/Images/SupportVectorMachines_kde.png)
