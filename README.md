@@ -1,6 +1,6 @@
 # Matthew Young Portfolio
-This is a portfolio to document my projects that I create while I learn data science and machine learning. 
-* Machine Learning Algorithms: Linear Regressions, Logistic Regressions
+This is a portfolio to document my projects that I create while I learn machine learning algorithms. 
+* Machine Learning Algorithms: Linear Regression, Logistic Regression, K Nearest Neighbor, Decision Tree, Random Forest, Support Vector Machine, K Means Clustering, Principal Component Analysis
 * Programming Languages: Python
 * Libraries: Numpy, Pandas, Seaborn, Matplotlib, Scikit-Learn, Cufflinks
 * Software: Jupyter Notebook
