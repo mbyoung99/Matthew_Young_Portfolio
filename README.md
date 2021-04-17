@@ -5,7 +5,7 @@ This is a portfolio to document my projects that I create while I learn machine 
 * Libraries: Numpy, Pandas, Seaborn, Matplotlib, Scikit-Learn, Cufflinks
 * Software: Jupyter Notebook
 
-## [Linear Regression Models](https://github.com/mbyoung99/Linear_Regressions)
+## [Linear Regression Models](https://github.com/mbyoung99/ML_General_Applications/Linear_Regressions)
 * My continuous regression projects for sets of sample data using python with multiple libraries
 * Includes single variable linear, single variable polynomial and multivarible regression models
 * Analyses are performed with libraries: Pandas, Numpy, Matplotlib, Seaborn and SciKit-Learn
