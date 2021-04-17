@@ -17,3 +17,5 @@ This is a portfolio to document my software programming and development projects
 * Algorithms included: Linear Regression, Logistic Regression, K Nearest Neighbor, Decision Tree, Random Forest, Support Vector Machine, K Means Clustering, Principal Component Analysis, Perceptron
 * Analyses are performed with libraries: Numpy 
 
+![](/Images/svm.png)
+
