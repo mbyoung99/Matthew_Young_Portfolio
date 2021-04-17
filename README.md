@@ -1,9 +1,8 @@
-# Matthew Young Portfolio
-This is a portfolio to document my projects that I create while I learn machine learning algorithms. 
+# Matthew Young's Portfolio
+This is a portfolio to document my software programming and development projects. The projects include application of Machine Learning, Data Sciense, Python and Finance topics. 
 * Machine Learning Algorithms: Linear Regression, Logistic Regression, K Nearest Neighbor, Decision Tree, Random Forest, Support Vector Machine, K Means Clustering, Principal Component Analysis
-* Programming Languages: Python
-* Libraries: Numpy, Pandas, Seaborn, Matplotlib, Scikit-Learn, Cufflinks
-* Software: Jupyter Notebook
+* Programming Languages: Python, Jupyter Notebook
+* Libraries: Numpy, Pandas, Seaborn, Matplotlib, Scikit-Learn, Cufflinks, TensorFlow, TensorBoard
 
 ## [General Application of Machine Learning Algorithms](https://github.com/mbyoung99/ML_General_Applications/blob/main/README.md)
 * My continuous regression projects for sets of sample data using python with multiple libraries
